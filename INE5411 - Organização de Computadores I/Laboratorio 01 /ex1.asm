@@ -15,4 +15,6 @@ main:
 	lw $t1, d		# Carregar o reg $t1 com a variável d
 	# Potenciação??? d^3
 	sub $t0, $t1, $t0	# $t0 = d - $t0
+
+	sw $t0, c		# Alocar o valor final na memória         
 syscall

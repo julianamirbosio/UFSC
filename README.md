@@ -13,3 +13,7 @@
 | Redes de Computadores I            | 2025.1       | -             | [INE5414](https://github.com/julianamirbosio/INE5414) |
 | Paradigmas de Programação          | 2025.1       | Python, Haskell, Scala, Prolog | [INE5416](https://github.com/julianamirbosio/Kojun)   |
 | Engenharia de Software I           | 2025.1       | Python        | [INE5414](https://github.com/lucasfpascoali/Golf-CardGame) |
+| Probabilidade e Estatística        | 2025.2       | R             | [INE5405](https://github.com/julianamirbosio/INE5405) |
+| Sistemas Operacionais I            | 2025.2       | C++           | [INE5412](https://github.com/julianamirbosio/INE5412) |
+| Linguagens Formais e Compiladores  | 2025.2       | Python        | [INE5421](https://github.com/julianamirbosio/INE5421) |
+| Tecnologias Blockchain e Criptomoedas | 2025.2    | Go (HyperLedger Fabric), Shell | [INE5458](https://github.com/julianamirbosio/EthoPharm-MVP) |

@@ -17,3 +17,8 @@
 | Sistemas Operacionais I            | 2025.2       | C++           | [INE5412](https://github.com/julianamirbosio/INE5412) |
 | Linguagens Formais e Compiladores  | 2025.2       | Python        | [INE5421](https://github.com/julianamirbosio/INE5421) |
 | Tecnologias Blockchain e Criptomoedas | 2025.2    | Go (HyperLedger Fabric), Shell | [INE5458](https://github.com/julianamirbosio/EthoPharm-MVP) |
+| Visão Computacional                | 2026.1       | Python        | [INE5443](https://github.com/julianamirbosio/SinucaVision) |
+| Computação Distribuída             | 2026.1       | Python, Go, Typescript | [INE5418]() |
+| Computação Gráfica                 | 2026.1       | Python        | [INE5420]() |
+| Banco de Dados I                   | 2026.1       | SQL           | [INE5423]() |
+| Construção de Compiladores         | 2026.1       | C++, Python   | [INE5426](https://github.com/leonardosm14/ConvCC-2026-1) |
